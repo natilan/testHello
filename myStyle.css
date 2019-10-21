@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+
+div {
+    font-family: 'Times New Roman', Times, serif;
+    color: violet;
+    text-transform: capitalize;
+    border: 1px red solid;
+}
+
+p {
+    padding-left: 14px;
+}
